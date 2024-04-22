@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/animreact/static/css/main.aedf66e0.css",
-    "main.js": "/animreact/static/js/main.170df5cd.js",
+    "main.js": "/animreact/static/js/main.53a8ae52.js",
     "index.html": "/animreact/index.html",
     "main.aedf66e0.css.map": "/animreact/static/css/main.aedf66e0.css.map",
-    "main.170df5cd.js.map": "/animreact/static/js/main.170df5cd.js.map"
+    "main.53a8ae52.js.map": "/animreact/static/js/main.53a8ae52.js.map"
   },
   "entrypoints": [
     "static/css/main.aedf66e0.css",
-    "static/js/main.170df5cd.js"
+    "static/js/main.53a8ae52.js"
   ]
 }
